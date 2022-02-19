@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "even-research-340416",
+  "private_key_id": "261f7ada5ec2de9734e5037acd3906d8afadf267",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYQT93ctm37c7N\nNV6q3bE2ZrmItqqdOPnBABKgT0sqa8ayYjS0HZRhFrflkahKR0B+ur6shpej1uXT\n57vN8rDVjYb8S3Hf12S2Cl3+OkUEjQu7x5fqviCVjNhxCM5Mw/0xhYixHrjL5Eff\nK9fk2SOLADdyEFinIKFTvao26Vw5bg9cM0dITMfW+a+yBQI2gEqI+Kz+EFDW9cBr\nqEW2wyvgeEHOlb/Dyb2JGvJ7r5sh7weE6x7XxRw3tKC7JSNiDnyJKIfzZdxUUIrC\nlzDbBv4ErHQYFtBeUaO2ZQ4po2UuxowdDr4EZt3qG/vokJoDJlehso1S3N62QzYF\ngY8JhB3PAgMBAAECggEAFrYk8XyAXZ9rqdC8PmCzfpn0MyCMcsd8+f04yhEJ9Vn+\nWb2sfvGqoJDy/ZusrufSBxV0O+gX1qjHv8Rhj2cUWcayzA+0/N70dvM08idfBD7F\n8UzkrG+QDL7lyna1z12s9yYkLceXaVK0JeY0Xj7FvoZZvvoRP1zus78nFOnah/ZY\nDUKCNo/duaZS12us63cuHwgL1egnC3Lm3/EcBmsC3xWTft6Tja0zNPSo81Jp+lyT\nJJPdBr7XpziX0FnuOHOr+ETeINRSdsgt9iqqRoJA9QyYn9aGO14vcXAh2P8VUwCi\n4UiV88TX3XmRR+oC6fVxvy29QX28QD/EdMQRJqYpAQKBgQDHDfpZtRalXV0OZmiY\nqU+2hXHturIYDE0K9PFQsz5Ky+RSrEYXMAStT/+bb5mMFA+3c9HkbqsJZvMeB2+F\naPz7KRKXc/QdRVd6IakbZR1oqazrL1VOXiQIxtFpfyWP3p1s0U0tvD5Z7D10NvzS\nqeeelqITwFrXSXKdclHRF0f9VwKBgQDDz9TN6eMQNaFUrhyCFavtg5MIOF64fOLj\nDwQn7s31WKa4jK3d4vAyGrvdwF8Ib1MEnog3nmvRS4MbZbuFML5uNVPIIEU/ZWyU\npv0n3X4gr7KAn3SssAlKFOCmhZixOcxfWbOML/5P+g+VezuCHLE33+wd1a0+XWqo\ny/H/Bv4gSQKBgDYVvzNGt/uAjbtO6hao0mbmhVkxxBgyp3BVs4fY3BEYq1YnRvgf\n7PVmai5CuXbNMKQJDTvDMifg2CgNnyihqTNZKpsKP4cAg09E/BzccYwxpjFU8BnW\nDHZyBw5iJMOdmiqqCA1oO4zVWrFMC4/16GA3z5wMROKAK2tKV563c7ELAoGANcre\nl0LtkgJps62xPztc4/8FYXi67MvCOMZjSeUcx433HzPmf9JcUidt/NlgQhzzHY2/\ntifbTsAD4H7uKQTfC7+yqIPVAjmGvr+xREZg4/Hgg91KXDZwFt3taVHCRM2wC3HF\nFXoJz0bPCS21h2UCemsVnoyY700ShBSjAoCVR6ECgYEAjAmVnBr62x6qYmSS413L\nkYzq57jT3IpVzEhoImAXcbuxJ3Ke7CyicLTEs4W7bIPWwxtuFelNetybZrayWgIz\nrFIsvQ8OPm5RHCW808EhaXcNN2pcYHfr0z8CZBh5zZWic6eVf1idb+eu6iE6IG3N\nIZGL0+MJ8+tDMGj2Tw1abM4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-api-sl-support@even-research-340416.iam.gserviceaccount.com",
+  "client_id": "103473163760903200498",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-api-sl-support%40even-research-340416.iam.gserviceaccount.com"
+}
